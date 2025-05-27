@@ -22,3 +22,6 @@ flutter run
 ![Calculadora](print.png)
 
 ## Repositórios 
+https://github.com/ErickAguiar06/Bitola-flutter
+https://github.com/ErickAguiar06/Financiamento-flutter
+https://github.com/ErickAguiar06/AvaliacaoIMC
